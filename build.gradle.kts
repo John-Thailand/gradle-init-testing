@@ -8,3 +8,9 @@
 description = "Just a demo"
 group = "com.tomgregory"
 version = "1.0-SNAPSHOT"
+
+tasks.register("sayHello") {
+  doLast {
+    println("Hello")
+  }
+}
