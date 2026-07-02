@@ -4,3 +4,7 @@
  * This is a general purpose Gradle build.
  * Learn more about Gradle by exploring our Samples at https://docs.gradle.org/9.5.1/samples
  */
+
+description = "Just a demo"
+group = "com.tomgregory"
+version = "1.0-SNAPSHOT"
